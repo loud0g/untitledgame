@@ -1,0 +1,1 @@
+audio_play_sound(mAdventure, 1000, true)
