@@ -104,7 +104,7 @@
     "eventStubScript": null,
     "parent": {"name":"sBlue_Down","path":"sprites/sBlue_Down/sBlue_Down.yy",},
     "resourceVersion": "1.3",
-    "name": "sBlue_Down",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },

@@ -62,6 +62,7 @@
     {"id":{"name":"InitGlobals","path":"scripts/InitGlobals/InitGlobals.yy",},"order":3,},
     {"id":{"name":"MovePlayer","path":"scripts/MovePlayer/MovePlayer.yy",},"order":4,},
     {"id":{"name":"ProcessCollision","path":"scripts/ProcessCollision/ProcessCollision.yy",},"order":5,},
+    {"id":{"name":"A_TEST","path":"sprites/A_TEST/A_TEST.yy",},"order":5,},
     {"id":{"name":"AddGamePad","path":"scripts/AddGamePad/AddGamePad.yy",},"order":0,},
     {"id":{"name":"RemoveGamePad","path":"scripts/RemoveGamePad/RemoveGamePad.yy",},"order":1,},
     {"id":{"name":"DoInput","path":"scripts/DoInput/DoInput.yy",},"order":2,},
