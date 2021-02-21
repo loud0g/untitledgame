@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mAdventure.mp3",
+  "soundFile": "Sound1.mp3",
   "duration": 179.314743,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "mAdventure",
+  "name": "Sound1",
   "tags": [],
   "resourceType": "GMSound",
 }

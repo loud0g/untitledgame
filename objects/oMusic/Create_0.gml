@@ -1,1 +1,1 @@
-audio_play_sound(mAdventure, 0, 1)
+audio_play_sound(mAdventure, 100, true)
